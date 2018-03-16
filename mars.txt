@@ -1,4 +1,5 @@
 
+
 Cold and dry, but everything in my fave color
 Two moons may be a problem for Wolfman
 But the Mummy will appeciate the lack of humidity
@@ -10,4 +11,4 @@ The north remembers.
 
 Mars is boring, let's talk about  Venus
 
-Owner adds a differetn line int the other copy
+We removed the conflict on this line
