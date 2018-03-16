@@ -1,4 +1,5 @@
 
+
 Cold and dry, but everything in my fave color
 Two moons may be a problem for Wolfman
 But the Mummy will appeciate the lack of humidity
@@ -9,3 +10,5 @@ This incessant snow and northern sky
 The north remembers.
 
 Mars is boring, let's talk about  Venus
+
+Collaborating with git  is for gits
